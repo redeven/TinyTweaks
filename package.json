@@ -1,0 +1,19 @@
+{
+  "name": "plugin-tinytweaks",
+  "version": "1.0.0",
+  "description": "Collection of small QoL tweaks and commands",
+  "main": "post-build.js",
+  "scripts": {
+    "start": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redeven/TinyTweaks.git"
+  },
+  "author": "Redeven",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/redeven/TinyTweaks/issues"
+  },
+  "homepage": "https://github.com/redeven/TinyTweaks#readme"
+}

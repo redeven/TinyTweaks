@@ -1,0 +1,13 @@
+{
+    "Author": "Redeven",
+    "Name": "TinyTweaks",
+    "InternalName":  "TinyTweaks",
+    "Punchline": "Collection of small QoL tweaks and commands",
+    "Description": "/btarget <term1> [<term2> <termN>...]",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://raw.githubusercontent.com/redeven/TinyTweaks/master/Data/icon.png",
+    "RepoUrl": "https://github.com/redeven/TinyTweaks",
+    "Tags": [
+        "tweaks"
+    ]
+}
