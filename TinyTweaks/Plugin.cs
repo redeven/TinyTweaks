@@ -9,8 +9,10 @@ public sealed class Plugin : IDalamudPlugin
 {
     private List<ITweak> Tweaks { get; }
 
-    public Plugin()
+    public Plugin(IDalamudPluginInterface pluginInterface)
     {
+        pluginInterface.Create<Svc>();
+
         Tweaks = Reflection.ActivateOfInterface<ITweak>().ToList();
 
         Tweaks.ForEach((tweak) => tweak.Enable());

@@ -4,7 +4,7 @@
         "Name": "TinyTweaks",
         "InternalName": "TinyTweaks",
         "AssemblyVersion": "1.0.0.0",
-        "Description": "/btarget <term1> [<term2> <termN>...]",
+        "Description": "Collection of small QoL tweaks and commands",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/redeven/TinyTweaks",
         "Tags": [
@@ -18,7 +18,7 @@
         "IconUrl": "https://raw.githubusercontent.com/redeven/TinyTweaks/master/Data/icon.png",
         "Punchline": "Collection of small QoL tweaks and commands",
         "AcceptsFeedback": true,
-        "LastUpdated": 1721601664,
+        "LastUpdated": 1721604626,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/redeven/TinyTweaks/master/TinyTweaks/bin/x64/Release/TinyTweaks/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/redeven/TinyTweaks/master/TinyTweaks/bin/x64/Release/TinyTweaks/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/redeven/TinyTweaks/master/TinyTweaks/bin/x64/Release/TinyTweaks/latest.zip"

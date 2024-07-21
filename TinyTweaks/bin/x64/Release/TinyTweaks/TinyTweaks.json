@@ -3,7 +3,7 @@
   "Name": "TinyTweaks",
   "InternalName": "TinyTweaks",
   "AssemblyVersion": "1.0.0.0",
-  "Description": "/btarget <term1> [<term2> <termN>...]",
+  "Description": "Collection of small QoL tweaks and commands",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/redeven/TinyTweaks",
   "Tags": [
