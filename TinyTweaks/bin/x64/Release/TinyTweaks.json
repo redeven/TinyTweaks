@@ -2,14 +2,14 @@
   "Author": "Redeven",
   "Name": "TinyTweaks",
   "InternalName": "TinyTweaks",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "Collection of small QoL tweaks and commands",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/redeven/TinyTweaks",
   "Tags": [
     "tweaks"
   ],
-  "DalamudApiLevel": 11,
+  "DalamudApiLevel": 12,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
